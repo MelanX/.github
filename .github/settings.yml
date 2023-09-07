@@ -1,0 +1,43 @@
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: "Mod compat"
+    description: ""
+    color: "652F64"
+
+  - name: "hacktoberfest-accepted"
+    description: ""
+    color: "CC5F0D"
+
+  - name: "Stale"
+    description: ""
+    color: "ededed"
+
+  - name: "bug"
+    description: ""
+    color: "d73a4a"
+
+  - name: "duplicate"
+    description: ""
+    color: "cfd3d7"
+    
+  - name: "enhancement"
+    description: ""
+    color: "00008b"
+    new_name: "Enhancement"
+
+  - name: "help wanted"
+    description: ""
+    color: "008672"
+
+  - name: "invalid"
+    description: ""
+    color: "e4e669"
+
+  - name: "question"
+    description: ""
+    color: "d876e3"
+
+  - name: "Status: Awaiting Information"
+    description: ""
+    color: "ffffff"
